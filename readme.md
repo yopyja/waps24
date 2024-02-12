@@ -6,21 +6,43 @@ This repository contains study notes for the United States Air Force's Weighted 
 
 ### Table of Contents 📃
 
-1. [MILITARY ORGANIZATION & COMMAND](#chapter01.md)
-2. [ENLISTED FORCE DEVELOPMENT](#chapter02.md)
-3. [ASSESSMENTS & RECOGNITION](#chapter03.md)
-4. [ENLISTED PROMOTIONS](#chapter04.md)
-5. [DEVELOPING ORGANIZATIONS](#chapter05.md)
-6. [DEVELOPING OTHERS](#chapter06.md)
-7. [DEVELOPING SELF](#chapter07.md)
-8. [DEVELOPING IDEAS](#chapter08.md)
-9. [SECURITY](#chapter09.md)
-10. [STANDARDS OF CONDUCT](#chapter10.md)
-11. [ENFORCING MILITARY STANDARDS](#chapter11.md)
-12. [FITNESS & READINESS](#chapter12.md)
-13. [MILITARY CUSTOMS & COURTESIES](#chapter13.md)
-14. [PROFESSIONALISM](#chapter14.md)
+- [**MILITARY ORGANIZATION & COMMAND**](content/chapter01.md)
+- [**ENLISTED FORCE DEVELOPMENT**](content/chapter02.md)
+- [**ASSESSMENTS & RECOGNITION**](content/chapter03.md)
+- [**ENLISTED PROMOTIONS**](content/chapter04.md)
+- [**DEVELOPING ORGANIZATIONS**](content/chapter05.md)
+- [**DEVELOPING OTHERS**](content/chapter06.md)
+- [**DEVELOPING SELF**](content/chapter07.md)
+- [**DEVELOPING IDEAS**](content/chapter08.md)
+- [**SECURITY**](content/chapter09.md)
+- [**STANDARDS OF CONDUCT**](content/chapter10.md)
+- [**ENFORCING MILITARY STANDARDS**](content/chapter11.md)
+- [**FITNESS & READINESS**](content/chapter12.md)
+- [**MILITARY CUSTOMS & COURTESIES**](content/chapter13.md)
+- [**PROFESSIONALISM**](content/chapter14.md)
+
+#### Chapter Size Breakdown 📊
+
+| **AFH Chapter**                | **# of Pages** | **Percentage %** |
+|-------------------------------- |----------------|------------------|
+| Military Organization 🪖        | 14             | 6.25%            |
+| Enlisted Force Development 🎓   | 30             | 13.39%           |
+| Assessments & Recognition 🔍    | 10             | 4.46%            |
+| Enlisted Promotions 💵          | 17             | 7.59%            |
+| Developing Organizations 🏢     | 13             | 5.8%             |
+| Developing Others 🏗️            | 19             | 8.48%            |
+| Developing Self 🪞              | 14             | 6.25%            |
+| Developing Ideas 🧠             | 18             | 8.04%            |
+| Security 🔒                     | 15             | 6.7%             |
+| Standard of Conduct ⚖️          | 14             | 6.25%            |
+| Enforcing Military Standards 📏 | 22             | 9.82%            |
+| Fitness & Readiness 💪          | 7              | 3.13%            |
+| Customs & Courtesies 🛰️         | 19             | 8.48%            |
+| Professionalism 💼              | 12             | 5.36%            |
 
 #### References ✒️
 
-- [Professional Development Guide (PDG)](https://www.freepdg.com/2023/docs/2024E6-Study-Guide-1-October-2023.pdf)
+- [Air Force Handbook](https://www.freepdg.com/2021/docs/afh1-2023.pdf)
+- [WAPS E6 Study Guide (PDG)](https://www.freepdg.com/2023/docs/2024E6-Study-Guide-1-October-2023.pdf)
+
+Thank you all that have driven me to be better and to do better. 🙏
