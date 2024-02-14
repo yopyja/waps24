@@ -46,3 +46,4 @@ This repository contains study notes for the United States Air Force's Weighted 
 - [WAPS E6 Study Guide (PDG)](https://www.freepdg.com/2023/docs/2024E6-Study-Guide-1-October-2023.pdf)
 
 Thank you all that have driven me to be better and to do better. 🙏
+Make, do, better. - Sgt Jones
